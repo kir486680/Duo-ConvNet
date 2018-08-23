@@ -1,6 +1,6 @@
 # Duo-ConvNet Dog VS Cat
 
-This is a Conv model made with keras that can differantiate images of dogs from cats
+This is a Conv model made with keras that can differantiate images of dogs and cats
 
 
 ## Installation
