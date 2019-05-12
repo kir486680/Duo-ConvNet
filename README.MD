@@ -15,7 +15,7 @@ git clone https://github.com/kir486680/Duo-ConvNet.git
 
 Classifier.py will tell you how to use the model !
 
-## Model dedign
+## Model design
 
 ```
 # Step 1 - Convolution
